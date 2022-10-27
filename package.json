@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "annyang": "^2.6.1",
     "bulma": "^0.9.4",
     "core-js": "^3.15.1",
+    "leaflet": "^1.9.2",
     "nuxt": "^2.15.7",
     "sass": "^1.55.0",
     "sass-loader": "^10.1.1",
-    "webpack": "^4.46.0"
+    "webpack": "^4.46.0",
+    "ws": "^8.10.0"
   }
 }
